@@ -1,1 +1,2 @@
 this file2 in b1 remote repo
+create conflict from remote
