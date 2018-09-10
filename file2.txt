@@ -1,2 +1,3 @@
 this file2 in b1 remote repo
 create config from local
+create conflict from remote
